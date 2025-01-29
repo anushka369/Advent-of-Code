@@ -8,11 +8,13 @@ Welcome to my repository for the Advent of Code! This project contains my soluti
 
 ```
 Advent of Code/
-│── day 01.py
-│── day 02.py
-│── . . .
-│── day 25.py
-│── README.md
+│
+├── 202X/
+│   ├── day 01.py
+│   │── day 02.py
+│   │── . . .
+|   └── day 25.py
+└── README.md
 ```
 
 ---
